@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "oauth2",
+      "type": "com.example.jwt0926.OauthProperties",
+      "sourceType": "com.example.jwt0926.OauthProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "oauth2.provider",
+      "type": "java.util.Map<java.lang.String,com.example.jwt0926.OauthProperties$Provider>",
+      "sourceType": "com.example.jwt0926.OauthProperties"
+    },
+    {
+      "name": "oauth2.user",
+      "type": "java.util.Map<java.lang.String,com.example.jwt0926.OauthProperties$User>",
+      "sourceType": "com.example.jwt0926.OauthProperties"
+    }
+  ],
+  "hints": []
+}
