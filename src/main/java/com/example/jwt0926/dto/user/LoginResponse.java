@@ -1,5 +1,6 @@
-package com.example.jwt0926;
+package com.example.jwt0926.dto.user;
 
+import com.example.jwt0926.dto.user.Role;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

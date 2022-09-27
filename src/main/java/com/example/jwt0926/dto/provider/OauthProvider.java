@@ -1,4 +1,4 @@
-package com.example.jwt0926;
+package com.example.jwt0926.dto.provider;
 
 import lombok.Builder;
 import lombok.Getter;

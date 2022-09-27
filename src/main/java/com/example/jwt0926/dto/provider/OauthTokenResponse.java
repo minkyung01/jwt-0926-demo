@@ -1,4 +1,4 @@
-package com.example.jwt0926;
+package com.example.jwt0926.dto.provider;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Builder;

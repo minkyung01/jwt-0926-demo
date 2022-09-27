@@ -1,5 +1,6 @@
-package com.example.jwt0926;
+package com.example.jwt0926.dto.user;
 
+import com.example.jwt0926.dto.user.Member;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

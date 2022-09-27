@@ -1,4 +1,7 @@
-package com.example.jwt0926;
+package com.example.jwt0926.oauth;
+
+import com.example.jwt0926.dto.provider.OauthProperties;
+import com.example.jwt0926.dto.provider.OauthProvider;
 
 import java.util.HashMap;
 import java.util.Map;

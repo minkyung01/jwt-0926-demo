@@ -1,4 +1,4 @@
-package com.example.jwt0926;
+package com.example.jwt0926.dto.user;
 
 public enum Role {
     GUEST("ROLE_GUEST"),

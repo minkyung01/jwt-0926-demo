@@ -1,5 +1,9 @@
-package com.example.jwt0926;
+package com.example.jwt0926.oauth;
 
+import com.example.jwt0926.dto.provider.InMemoryProviderRepository;
+import com.example.jwt0926.dto.provider.OauthProperties;
+import com.example.jwt0926.dto.provider.OauthProvider;
+import com.example.jwt0926.oauth.OauthAdapter;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

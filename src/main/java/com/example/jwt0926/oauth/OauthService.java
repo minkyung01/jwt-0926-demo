@@ -1,5 +1,14 @@
-package com.example.jwt0926;
+package com.example.jwt0926.oauth;
 
+import com.example.jwt0926.dto.provider.InMemoryProviderRepository;
+import com.example.jwt0926.dto.provider.OauthProvider;
+import com.example.jwt0926.dto.provider.OauthTokenResponse;
+import com.example.jwt0926.dto.user.LoginResponse;
+import com.example.jwt0926.dto.user.Member;
+import com.example.jwt0926.dto.user.MemberRepository;
+import com.example.jwt0926.dto.user.UserProfile;
+import com.example.jwt0926.oauth.JwtTokenProvider;
+import com.example.jwt0926.oauth.OauthAttributes;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Service;

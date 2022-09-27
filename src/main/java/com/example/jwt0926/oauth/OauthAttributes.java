@@ -1,4 +1,6 @@
-package com.example.jwt0926;
+package com.example.jwt0926.oauth;
+
+import com.example.jwt0926.dto.user.UserProfile;
 
 import java.util.Arrays;
 import java.util.Map;

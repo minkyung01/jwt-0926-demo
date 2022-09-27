@@ -1,9 +1,8 @@
-package com.example.jwt0926;
+package com.example.jwt0926.dto.provider;
 
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
-import org.springframework.boot.context.properties.EnableConfigurationProperties;
 
 import java.util.HashMap;
 import java.util.Map;
